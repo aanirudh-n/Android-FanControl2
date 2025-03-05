@@ -1,1 +1,1 @@
-# Android-FanControl2
+# Android-FanControl
